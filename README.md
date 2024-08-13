@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rekt-Cat
+- 👋 Hi, I’m Ayush Dhyani
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
