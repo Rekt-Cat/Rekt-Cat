@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rekt-Cat
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Android Studios
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Mail me at ayushdhyani.12@gmail.com
 
